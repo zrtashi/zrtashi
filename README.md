@@ -1,5 +1,5 @@
 <h1 align="center">Decoding data, driving innovation.</h1>
-<h3 align="center">I'm Data Scientist</h3>
+//<h3 align="center">I'm Data Scientist</h3>
 <p>I am passionate about the fields of Artificial Intelligence, Machine Learning, and Deep Learning, with hands-on experience developing and deploying models that solve real-world problems. My expertise includes building predictive models, fine-tuning pre-trained architectures, and applying advanced techniques such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), and transfer learning. I enjoy working on projects that involve computer vision, natural language processing, and data-driven decision-making, leveraging state-of-the-art tools and frameworks like TensorFlow, PyTorch, and Scikit-learn to push the boundaries of AI applications.</p>
 
 
